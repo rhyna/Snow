@@ -1,0 +1,158 @@
+.substrate {
+  background-color: #f6f6f6;
+  width: 100%;
+}
+.blog {
+  padding-bottom: 70px;
+}
+.blog-title {
+  font-family: "Playfair Display", serif;
+  font-size: 39px;
+  font-weight: 700;
+  font-style: normal;
+  color: #171717;
+  line-height: 1.07em;
+  letter-spacing: 0em;
+  margin-bottom: 33px;
+}
+@media (max-width: 500px) {
+  .blog-title {
+    font-size: 26px;
+  }
+}
+@media (max-width: 700px) {
+  .blog-title {
+    font-size: 30px;
+  }
+}
+.blog-descr {
+  font-family: "Work Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: normal;
+  color: #5F5F5F;
+  line-height: 1.6em;
+  letter-spacing: 0em;
+}
+.blog-header {
+  padding: 95px 40px 55px 40px;
+  max-width: 750px;
+  text-align: center;
+}
+@media (max-width: 400px) {
+  .blog-header {
+    padding: 60px 20px;
+  }
+}
+.blog-header-wrapper {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.blog-item {
+  padding: 0 15px;
+}
+.blog-item a {
+  display: block;
+  text-decoration: none;
+  opacity: 1;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+.blog-item a:hover,
+.blog-item a:active {
+  opacity: 0.6;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+.blog-item .blog-item-background {
+  height: 240px;
+  width: 100%;
+  bottom: 0;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+.blog-item-category {
+  padding: 11px 14px;
+  background-color: #000;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: #FFFFFF;
+  line-height: 1.58em;
+  letter-spacing: 0em;
+  position: absolute;
+  top: 190px;
+  left: 10px;
+}
+.blog-item-descr {
+  background-color: #FFF;
+  padding: 30px;
+}
+.blog-item-descr-title {
+  font-family: "Playfair Display", serif;
+  font-size: 21px;
+  font-weight: 700;
+  font-style: normal;
+  color: #171717;
+  line-height: 1.09em;
+  letter-spacing: 0em;
+  margin-bottom: 15px;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+.blog-item-descr-date {
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  color: #171717;
+  line-height: 1.66em;
+  letter-spacing: 0em;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+.blog-item-descr-text {
+  font-family: "Work Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: normal;
+  color: #5F5F5F;
+  line-height: 1.6em;
+  letter-spacing: 0em;
+}
+.main-carousel-blog .carousel-cell {
+  width: 400px;
+}
+@media (max-width: 1199px) {
+  .main-carousel-blog .carousel-cell {
+    width: 100%;
+  }
+}
+.main-carousel-blog .flickity-page-dots {
+  bottom: -70px;
+}
+.main-carousel-blog .flickity-page-dots .dot {
+  margin: 0 3px;
+  transform: scale(0.6);
+  background-color: #000;
+  transition: opacity 0.4s,
+                    transform 0.4s;
+}
+.main-carousel-blog .flickity-page-dots .dot:hover {
+  opacity: 1;
+}
+.main-carousel-blog .flickity-page-dots .dot.is-selected {
+  transform: scale(1);
+  opacity: 1;
+}

@@ -1,0 +1,60 @@
+.feedback {
+  padding: 175px 40px;
+  background-color: #313131;
+  background-image: url(/image/home/pattern-bg.jpg);
+}
+.main-carousel .carousel-cell {
+  width: 100%;
+}
+.feedback-item {
+  text-align: center;
+  max-width: 710px;
+  margin: 0 auto;
+}
+.feedback-item-review {
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  font-weight: 400;
+  font-style: italic;
+  color: #FFFFFF;
+  line-height: 1.44em;
+  letter-spacing: 0em;
+  margin-bottom: 35px;
+}
+.feedback-item-review:before {
+  content: "“";
+  font-size: 35px;
+  line-height: 1;
+}
+.feedback-item-review:after {
+  content: "”";
+  font-size: 35px;
+  line-height: 1;
+}
+.feedback-item-author {
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  color: #FFFFFF;
+  line-height: 1.57em;
+  letter-spacing: 0em;
+  text-transform: uppercase;
+}
+.main-carousel .flickity-page-dots {
+  bottom: -115px;
+}
+.main-carousel .flickity-page-dots .dot {
+  margin: 0 3px;
+  transform: scale(0.6);
+  background-color: #FFF;
+  transition: opacity 0.4s,
+                    transform 0.4s;
+}
+.main-carousel .flickity-page-dots .dot:hover {
+  opacity: 1;
+}
+.main-carousel .flickity-page-dots .dot.is-selected {
+  transform: scale(1);
+  opacity: 1;
+}
