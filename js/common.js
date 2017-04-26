@@ -11,8 +11,8 @@ $('.portfolio-item').mouseleave(function(){
 $(window).scroll(function(){
 	if(!$('.header-menu-wrapper').hasClass('scrolled')) {
 		$('.header-menu-wrapper').addClass('scrolled')
-		var oldSrc = '/image/home/logo-light.svg';
-		var newSrc = '/image/home/logo-black.svg';
+		var oldSrc = '../image/home/logo-light.svg';
+		var newSrc = '../image/home/logo-black.svg';
 		$('.header-logo img[src="' + oldSrc + '"]').attr('src', newSrc);
 	} 
 })
@@ -22,14 +22,14 @@ $(window).scroll(function() {
 	    if(height > 0) {
 	        if(!$('.header-menu-wrapper').hasClass('scrolled')) {
 				$('.header-menu-wrapper').addClass('scrolled')
-				var oldSrc = '/image/home/logo-light.svg';
-				var newSrc = '/image/home/logo-black.svg';
+				var oldSrc = '../image/home/logo-light.svg';
+				var newSrc = '../image/home/logo-black.svg';
 				$('.header-logo img[src="' + oldSrc + '"]').attr('src', newSrc);
 		} 
     } else{
     	$('.header-menu-wrapper').removeClass('scrolled')
-		var oldSrc = '/image/home/logo-light.svg';
-		var newSrc = '/image/home/logo-black.svg';
+		var oldSrc = '../image/home/logo-light.svg';
+		var newSrc = '../image/home/logo-black.svg';
 		$('.header-logo img[src="' + newSrc + '"]').attr('src', oldSrc);
     }
 });

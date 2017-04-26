@@ -7,7 +7,7 @@ header .container {
   height: 100%;
 }
 .background {
-  background: url(/image/home/home-7.jpg) no-repeat;
+  background: url(../image/home/home-7.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   height: 100%;
@@ -345,7 +345,7 @@ header .container {
 }
 .stats-backgr {
   background-color: #313131;
-  background-image: url(/image/home/pattern-bg.jpg);
+  background-image: url(../image/home/pattern-bg.jpg);
 }
 .stats-wrapper {
   padding: 100px 0 100px 0;
@@ -444,7 +444,7 @@ header .container {
   }
 }
 .portfolio-item {
-  background-image: url(/image/home/portfolio-12-sm.jpg);
+  background-image: url(../image/home/portfolio-12-sm.jpg);
   background-repeat: no-repeat;
   width: 370px;
   background-position: 50%;
@@ -569,7 +569,7 @@ header .container {
 .feedback {
   padding: 175px 40px;
   background-color: #313131;
-  background-image: url(/image/home/pattern-bg.jpg);
+  background-image: url(../image/home/pattern-bg.jpg);
 }
 .main-carousel .carousel-cell {
   width: 100%;
@@ -1039,7 +1039,7 @@ footer > .container {
 }
 .latest-twits-item:before {
   content: '';
-  background-image: url(/image/home/twitter.png);
+  background-image: url(../image/home/twitter.png);
   width: 16px;
   height: 13px;
   position: absolute;
@@ -1079,7 +1079,7 @@ footer > .container {
   width: 85px;
   height: 85px;
   background-color: #d5d5d5;
-  background-image: url(http://lorempixel.com/output/cats-q-g-85-85-7.jpg);
+  background-image: url(https://lorempixel.com/output/cats-q-g-85-85-7.jpg);
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
