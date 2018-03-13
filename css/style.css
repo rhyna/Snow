@@ -1,90 +1,90 @@
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans Thin'), local('WorkSans-Thin'), url('https://64424.selcdn.ru/webfonts/worksans/100.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/100.woff') format('woff');
+  src: local('Work Sans Thin'), local('WorkSans-Thin'), url('https://hb.bizmrg.com/fonts/worksans/100.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/100.woff') format('woff');
   font-weight: 100;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans ExtraLight'), local('WorkSans-ExtraLight'), url('https://64424.selcdn.ru/webfonts/worksans/200.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/200.woff') format('woff');
+  src: local('Work Sans ExtraLight'), local('WorkSans-ExtraLight'), url('https://hb.bizmrg.com/fonts/worksans/200.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/200.woff') format('woff');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans Light'), local('WorkSans-Light'), url('https://64424.selcdn.ru/webfonts/worksans/300.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/300.woff') format('woff');
+  src: local('Work Sans Light'), local('WorkSans-Light'), url('https://hb.bizmrg.com/fonts/worksans/300.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/300.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans'), local('WorkSans-Regular'), url('https://64424.selcdn.ru/webfonts/worksans/400.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/400.woff') format('woff');
+  src: local('Work Sans'), local('WorkSans-Regular'), url('https://hb.bizmrg.com/fonts/worksans/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/400.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans Medium'), local('WorkSans-Medium'), url('https://64424.selcdn.ru/webfonts/worksans/500.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/500.woff') format('woff');
+  src: local('Work Sans Medium'), local('WorkSans-Medium'), url('https://hb.bizmrg.com/fonts/worksans/500.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/500.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans SemiBold'), local('WorkSans-SemiBold'), url('https://64424.selcdn.ru/webfonts/worksans/600.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/600.woff') format('woff');
+  src: local('Work Sans SemiBold'), local('WorkSans-SemiBold'), url('https://hb.bizmrg.com/fonts/worksans/600.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/600.woff') format('woff');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans Bold'), local('WorkSans-Bold'), url('https://64424.selcdn.ru/webfonts/worksans/700.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/700.woff') format('woff');
+  src: local('Work Sans Bold'), local('WorkSans-Bold'), url('https://hb.bizmrg.com/fonts/worksans/700.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/700.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans ExtraBold'), local('WorkSans-ExtraBold'), url('https://64424.selcdn.ru/webfonts/worksans/800.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/800.woff') format('woff');
+  src: local('Work Sans ExtraBold'), local('WorkSans-ExtraBold'), url('https://hb.bizmrg.com/fonts/worksans/800.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/800.woff') format('woff');
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
   font-family: 'Work Sans';
-  src: local('Work Sans Black'), local('WorkSans-Black'), url('https://64424.selcdn.ru/webfonts/worksans/900.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/worksans/900.woff') format('woff');
+  src: local('Work Sans Black'), local('WorkSans-Black'), url('https://hb.bizmrg.com/fonts/worksans/900.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/worksans/900.woff') format('woff');
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display'), local('PlayfairDisplay-Regular'), url('https://64424.selcdn.ru/webfonts/playfair/400.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/400.woff') format('woff');
+  src: local('Playfair Display'), local('PlayfairDisplay-Regular'), url('https://hb.bizmrg.com/fonts/playfair/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/400.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display Italic'), local('PlayfairDisplay-Italic'), url('https://64424.selcdn.ru/webfonts/playfair/400i.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/400i.woff') format('woff');
+  src: local('Playfair Display Italic'), local('PlayfairDisplay-Italic'), url('https://hb.bizmrg.com/fonts/playfair/400i.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/400i.woff') format('woff');
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'), url('https://64424.selcdn.ru/webfonts/playfair/700.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/700.woff') format('woff');
+  src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'), url('https://hb.bizmrg.com/fonts/playfair/700.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/700.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display Bold Italic'), local('PlayfairDisplay-BoldItalic'), url('https://64424.selcdn.ru/webfonts/playfair/700i.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/700i.woff') format('woff');
+  src: local('Playfair Display Bold Italic'), local('PlayfairDisplay-BoldItalic'), url('https://hb.bizmrg.com/fonts/playfair/700i.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/700i.woff') format('woff');
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display Black'), local('PlayfairDisplay-Black'), url('https://64424.selcdn.ru/webfonts/playfair/900.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/900.woff') format('woff');
+  src: local('Playfair Display Black'), local('PlayfairDisplay-Black'), url('https://hb.bizmrg.com/fonts/playfair/900.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/900.woff') format('woff');
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: local('Playfair Display Black Italic'), local('PlayfairDisplay-BlackItalic'), url('https://64424.selcdn.ru/webfonts/playfair/900i.woff2') format('woff2'), url('https://64424.selcdn.ru/webfonts/playfair/900i.woff') format('woff');
+  src: local('Playfair Display Black Italic'), local('PlayfairDisplay-BlackItalic'), url('https://hb.bizmrg.com/fonts/playfair/900i.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/playfair/900i.woff') format('woff');
   font-weight: 900;
   font-style: italic;
 }
